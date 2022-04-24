@@ -12,7 +12,6 @@ layout(push_constant) uniform PushConstants {
 	vec2 size;
     float z;
     float r, g, b, a;
-    uint materialId;
     uint rotationId;
 };
 
